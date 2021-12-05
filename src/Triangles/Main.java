@@ -148,7 +148,7 @@ public class Main {
         /**
          * Result
          */
-        ImageIO.write(image, "png", new File("triangle.png"));
+        ImageIO.write(image, "png", new File("results/triangle.png"));
 
     }
 
