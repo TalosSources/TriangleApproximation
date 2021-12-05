@@ -1,5 +1,5 @@
 cd src/Triangles
-javac Classes.java Main.java
+javac -d out  Classes.java Main.java
 cd ..
 cd ..
 java -cp src Triangles/Main
